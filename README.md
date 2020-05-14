@@ -1,4 +1,4 @@
 # gopathname
 
-install
+install   
 `go get github.com/sosisusy/gopathname`
