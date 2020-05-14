@@ -1,4 +1,4 @@
-#gopathname
+# gopathname
 
 install
-    go get github.com/sosisusy/gopathname
+`go get github.com/sosisusy/gopathname`
